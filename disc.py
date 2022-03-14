@@ -133,6 +133,6 @@ def cron():
 
 
 
-client.run('ODU0NjcxODAxMDgyNzA3OTY5.YMnVJA.MkrPvffdVvC5KTVZb5gqZfViMgM')
+client.run('Token')
 thread = threading.Thread(target=cron)
 thread.start()
